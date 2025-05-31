@@ -1,10 +1,10 @@
 # Breast-Cancer-Detection-ML-Project
 a machine learning model to classify breast tumors as malignant or benign using the Breast Cancer Wisconsin dataset.
 
-Description
+## Description
 The project uses the sklearn load_breast_cancer dataset (569 entries, 30 features) to build a model that distinguishes between malignant and benign tumors. It includes data preprocessing, visualization, model training, and evaluation, with Random Forest achieving the highest accuracy (97.36%).
 
-# Steps
+## Steps
 
 Introduction: Highlights the importance of early breast cancer detection.
 
